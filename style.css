@@ -35,7 +35,7 @@ p {
     background-color: var(--card-bg);
     width: 315px;
     border-radius: 8px;
-    padding: 1em;
+    padding: 2em;
 }
 
 .container img {
